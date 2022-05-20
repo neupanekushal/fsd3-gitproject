@@ -7,5 +7,8 @@ git add .
 
 now the commiting part:
 
-git commit -m 'calender- here attach something for you to know what was the purpose of commiting' styles.css
-git commit -m 'any message here' .
+git commit -m 'here attach something for you to know what was the purpose of commiting' styles.css
+eg:
+git commit -m 'initial commit' .
+
+git log -- shows the description of previous commits. gives every thing we did so far
