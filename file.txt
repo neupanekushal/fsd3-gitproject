@@ -2,3 +2,6 @@ This is my first file in the git.
 also in the visual studio code
 this line is changed later
 the change again
+dfngladfkg
+aksldnf
+the last thing added to this file
